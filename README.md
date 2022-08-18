@@ -8,6 +8,7 @@ Es un proyecto de visualización de datos creado en [Tableau](https://public.tab
 # Tecnologies
 
 - Tableau
+- Excel (Limpieza de datos)
 
 # Creditos
 
